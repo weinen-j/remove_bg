@@ -1,9 +1,18 @@
-import os
-import rembg
-from PIL import Image
-import io
-import time
-import logging
+try:
+    import os
+    import rembg
+    from PIL import Image
+    print("imported")
+except Exception as e:
+    print(f"{e}")
+
+try:
+    import io
+    import time
+    import logging
+except Exception as e:
+    print(f"{e}")
+
 
 
 
@@ -96,3 +105,5 @@ if __name__ == '__main__':
 end_time = time.time()
 my_string = '\n'.join(processed)
 print(f"Ausgeschnittene Dateien: \n{my_string} \n\nRuntime nach Definition des User-Inputs:", end_time - start_time, "seconds")
+
+a=input("Drücke eine beliebige Taste")
