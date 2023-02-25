@@ -2,7 +2,9 @@ import os
 import rembg
 from PIL import Image
 import io
+import time
 
+start_time = time.time()
 # conda remove -n ENV_NAME --all
 # conda create -n envname python=x.x
 
@@ -63,3 +65,6 @@ for filename in os.listdir(input_folder):
             else:
                 # write the bytes directly to the output file for PNG format
                 f.write(img)
+
+end_time = time.time()
+print("Runtime:", end_time - start_time, "seconds")
