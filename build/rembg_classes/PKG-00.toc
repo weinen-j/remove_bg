@@ -1,0 +1,64 @@
+('C:\\Users\\Jonas\\Documents\\Python '
+ 'Scripts\\remove_bg\\build\\rembg_classes\\rembg_classes.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True},
+ [('PYZ-00.pyz',
+   'C:\\Users\\Jonas\\Documents\\Python '
+   'Scripts\\remove_bg\\build\\rembg_classes\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Jonas\\Documents\\Python '
+   'Scripts\\remove_bg\\build\\rembg_classes\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Jonas\\Documents\\Python '
+   'Scripts\\remove_bg\\build\\rembg_classes\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Jonas\\Documents\\Python '
+   'Scripts\\remove_bg\\build\\rembg_classes\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Jonas\\Documents\\Python '
+   'Scripts\\remove_bg\\build\\rembg_classes\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\Jonas\\Documents\\Python '
+   'Scripts\\remove_bg\\build\\rembg_classes\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Jonas\\Documents\\Python '
+   'Scripts\\remove_bg\\env_r\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'C:\\Users\\Jonas\\Documents\\Python '
+   'Scripts\\remove_bg\\env_r\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Jonas\\Documents\\Python '
+   'Scripts\\remove_bg\\env_r\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\Jonas\\Documents\\Python '
+   'Scripts\\remove_bg\\env_r\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\Jonas\\Documents\\Python '
+   'Scripts\\remove_bg\\env_r\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('rembg_classes',
+   'C:\\Users\\Jonas\\Documents\\Python Scripts\\remove_bg\\rembg_classes.py',
+   'PYSOURCE')],
+ True,
+ False,
+ True,
+ [],
+ None,
+ None,
+ None)
