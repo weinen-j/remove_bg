@@ -1,0 +1,1 @@
+C:\Users\Jonas\Documents\Python Scripts\remove_bg>pyinstaller --hidden-import=scipy.sparse.linalg._isolve._iterative --hidden-import=scipy.sparse.linalg._isolve rembg_classes.py --onefile --upx-dir "C:\Users\Jonas\Documents\Python Scripts\upx" --add-binary="C:\Users\Jonas\Documents\Python Scripts\remove_bg\env_r\Lib\site-packages\scipy.libs\*.dll;."
